@@ -27,3 +27,9 @@ To load the dataset without running a model:
 ```bash
 python run.py data
 
+### Load Data and Run a Specific Model
+
+Run with both `data` and `test` targets, and specify the model name as the last argument:
+
+```bash
+python run.py data test Meta-Llama-3.1-8B-Instruct
