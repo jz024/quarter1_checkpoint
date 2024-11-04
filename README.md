@@ -1,4 +1,4 @@
-# Project Name
+# LLM Article Classification
 
 This project classifies documents in the `20news-bydate` dataset using the Llama API.
 
