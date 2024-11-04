@@ -15,3 +15,15 @@ This project classifies documents in the `20news-bydate` dataset using the Llama
 1. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
+
+## Running the Model
+
+You can use `run.py` to execute different tasks in the project. This script accepts command-line arguments for flexibility, allowing you to load data and run specific models.
+
+### Load the Dataset Only
+
+To load the dataset without running a model:
+
+```bash
+python run.py data
+
