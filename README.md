@@ -6,7 +6,7 @@ This project classifies documents in the `20news-bydate` dataset using the Llama
 - `20news-bydate/`: The dataset directory containing news articles.
 - `.env`: Environment file storing your API key.
 - `config.json`: Configuration file containing model and cost parameters.
-- `function.py`: Contains the core functions for data loading, token counting, and cost estimation.
+- `functions.py`: Contains the core functions for data loading, token counting, and cost estimation.
 - `run.py`: Script for running different parts of the classification process.
 - `requirements.txt`: Python dependencies.
 
