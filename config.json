@@ -1,0 +1,19 @@
+{
+    "models": [
+        {
+            "name": "Meta-Llama-3.1-1B-Instruct",
+            "token_budget": 4000
+        },
+        {
+            "name": "Meta-Llama-3.1-3B-Instruct",
+            "token_budget": 4000
+        },
+        {
+            "name": "Meta-Llama-3.1-8B-Instruct",
+            "token_budget": 8000
+        }
+    ],
+    "delay": 2,
+    "input_price_per_million": 0.10,
+    "output_price_per_million": 0.20
+}
